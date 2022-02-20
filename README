@@ -1,0 +1,7 @@
+# Dayplanner using Jquery
+
+A dayplanner that functions via momentjs API to schedule events during business hours of a day. Additional functionality includes color coding based on the time of day relative to the hour blocks.
+
+[Link to deployed application](https://ccatalyst.github.io/Dayplanner/)
+
+![screenshot of application](./assets/Screenshot.png)
